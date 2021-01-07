@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{FD50E3D6-36DC-4019-B71B-7A7D79148E74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/UserService.cs">
+    <Files>
+      <File FileName="Controllers/UserController.cs" Line="37" Column="1" />
+      <File FileName="Startup.cs" Line="24" Column="1" />
+      <File FileName="Entities/UserModel.cs" Line="7" Column="42" />
+      <File FileName="Request/UserRegisterRequestModel.cs" Line="11" Column="45" />
+      <File FileName="Response/UserResponseModel.cs" Line="12" Column="1" />
+      <File FileName="Business/UserService.cs" Line="26" Column="1" />
+      <File FileName="Handler/UserRegistrationHandler.cs" Line="32" Column="1" />
+      <File FileName="Notification/UserRegisterNotification.cs" Line="5" Column="42" />
+      <File FileName="EventHandler/UserEventHandler.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetCore.Mediatr" expanded="True">
+            <Node name="AspNetCore.Mediatr" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="EventHandler" expanded="True" />
+              <Node name="Handler" expanded="True" />
+              <Node name="Notification" expanded="True" />
+              <Node name="Request" expanded="True" selected="True" />
+              <Node name="Response" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AspNetCore.Mediatr PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

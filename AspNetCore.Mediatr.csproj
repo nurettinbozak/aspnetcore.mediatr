@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Business\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Request\" />
+    <Folder Include="Response\" />
+    <Folder Include="Handler\" />
+    <Folder Include="Notification\" />
+    <Folder Include="EventHandler\" />
+  </ItemGroup>
+</Project>
